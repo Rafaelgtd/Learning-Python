@@ -1,2 +1,4 @@
 # Learning-Python
-Learning Python from "Introduction to Computing Using Python: An Application Development Focus Book by Ljubomir Perkovic"
+Python exercises from "Introduction to Computing Using Python: An Application Development Focus Book by Ljubomir Perkovic"
+
+
